@@ -1,0 +1,2 @@
+#BeginningOne.github.io
+突然看到用github也可以做个人网页就可以了弄一弄
